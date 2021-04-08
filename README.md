@@ -1,5 +1,25 @@
 # Escuela Colombiana de Ingeniería Julio Garavito - Arquitecturas de Software ARSW - Parcial Segundo Tercio
 ## Autor: Verbo Camacho Villamarin
+## Requerimientos
+Se necesita tener instalado en su computadora:
+```sh
+$ Java 1.8
+$ Maven 3.6.3
+```
+## Instalación
+> **Clonar el repositorio:**
+```sh
+$ https://github.com/VerboCamacho/Camacho-ARSW-T2
+```
+> **Compilar el proyecto:**
+```sh
+$ mvn package
+```
+> **Ejecutar el programa:**
+```sh
+$ mvn spring-boot:run
+```
+
 ## Integracion continua en CircleCi :white_check_mark:
 [![Weather](https://circleci.com/gh/VerboCamacho/Camacho-ARSW-T2.svg?style=svg)](https://app.circleci.com/pipelines/github/VerboCamacho/Camacho-ARSW-T2)
 ## Reporte de analisis en Codacy :white_check_mark:
