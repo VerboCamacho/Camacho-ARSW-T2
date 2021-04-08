@@ -28,7 +28,8 @@ $ mvn spring-boot:run
 [![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://camacho-arsw-t2.herokuapp.com/)
 
 ## JavaDoc
-[Aqui](https://github.com/VerboCamacho/Camacho-ARSW-T2/tree/main/JavaDoc/index.html)
+[Aqui](https://github.com/VerboCamacho/Camacho-ARSW-T2/tree/main/JavaDoc/)
+
 ## Preparación para el Parcial
 
 Con el objetivo de preparar el examen final del segundo tercio, por favor siga las siguientes instrucciones.
