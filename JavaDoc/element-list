@@ -1,0 +1,8 @@
+edu.eci.arsw.app.parcial
+edu.eci.arsw.app.parcial.controllers
+edu.eci.arsw.app.parcial.exception
+edu.eci.arsw.app.parcial.httpService
+edu.eci.arsw.app.parcial.httpService.imp
+edu.eci.arsw.app.parcial.model
+edu.eci.arsw.app.parcial.services
+edu.eci.arsw.app.parcial.services.imp
