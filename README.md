@@ -30,6 +30,12 @@ $ mvn spring-boot:run
 ## JavaDoc
 [Aqui](https://github.com/VerboCamacho/Camacho-ARSW-T2/tree/main/JavaDoc)
 
+### Arquitectura
+La aplicacion funciona como fue propuesto en la arquitectura dada , se tiene un componente de front end
+que accede a los servicios que se ofreces mediante un controlador (WeatherParcialController), este controlador cuenta con una inyeccion de dependencias
+que accede a los servicios de WeatherService, el cual a su vez, tambien tiene una inyeccion de dependencias de "HttpServiceConnect"
+esta ultima clase es la encargadade realizar peticiones por medio de unirest a la API de OpenWeatherMap.
+
 ## Preparación para el Parcial
 
 Con el objetivo de preparar el examen final del segundo tercio, por favor siga las siguientes instrucciones.
