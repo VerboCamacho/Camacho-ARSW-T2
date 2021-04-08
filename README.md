@@ -28,7 +28,7 @@ $ mvn spring-boot:run
 [![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://camacho-arsw-t2.herokuapp.com/)
 
 ## JavaDoc
-[Aqui](https://github.com/VerboCamacho/Camacho-ARSW-T2/tree/main/JavaDoc/)
+[Aqui](https://github.com/VerboCamacho/Camacho-ARSW-T2/tree/main/JavaDoc)
 
 ## Preparación para el Parcial
 
