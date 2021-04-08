@@ -1,7 +1,7 @@
 # Escuela Colombiana de Ingeniería Julio Garavito - Arquitecturas de Software ARSW - Parcial Segundo Tercio
 ## Autor: Verbo Camacho Villamarin
 ## Integracion continua en CircleCi :white_check_mark:
-[![ECIBET](https://circleci.com/github/VerboCamacho/Camacho-ARSW-T2.svg?style=svg)](https://app.circleci.com/pipelines/github/VerboCamacho/Camacho-ARSW-T2)
+[![Weather](https://circleci.com/github/VerboCamacho/Camacho-ARSW-T2.svg?style=svg)](https://app.circleci.com/pipelines/github/VerboCamacho/Camacho-ARSW-T2)
 
 ## Preparación para el Parcial
 
