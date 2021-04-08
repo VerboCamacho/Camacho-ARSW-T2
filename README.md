@@ -2,6 +2,8 @@
 ## Autor: Verbo Camacho Villamarin
 ## Integracion continua en CircleCi :white_check_mark:
 [![Weather](https://circleci.com/gh/VerboCamacho/Camacho-ARSW-T2.svg?style=svg)](https://app.circleci.com/pipelines/github/VerboCamacho/Camacho-ARSW-T2)
+## Reporte de analisis en Codacy :white_check_mark:
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d8503cb1f772463483bf01ad5b25b0a6)](https://www.codacy.com/gh/VerboCamacho/Camacho-ARSW-T2/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=VerboCamacho/Camacho-ARSW-T2&amp;utm_campaign=Badge_Grade)
 
 ## Preparación para el Parcial
 
